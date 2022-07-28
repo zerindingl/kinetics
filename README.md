@@ -22,3 +22,4 @@ user@name:~$ . ./install.sh
 user@name:~/kinetics$ cd examples
 user@name:~/kinetics/examples$ g++ exercises.cpp  -I /usr/include/eigen3 -lpthread -lalgebra -lkinetics && ./a.out
 ```
+
